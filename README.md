@@ -11,4 +11,4 @@
 ---
 
 <img align="left" alt="Nicholas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicholascostadev&show_icons=true&hide_border=true" />
-<img align="left" alt="Nicholas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholascostadev&layout=compact">
+<img align="right" alt="Nicholas's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholascostadev&layout=compact">
