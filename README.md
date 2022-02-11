@@ -7,8 +7,15 @@
 - 🤔 I’m looking for getting better also at the backend
 
 - 📫 How to reach me: <a href="https://twitter.com/NicholasCosta04">Twitter</a>
-
+<br />
+<br />
 ---
 
+### 📕  Latest Blog Posts
+<!-- BLOG-POST-LIST:START-->
+<!-- BLOG-POST-LIST:END-->
+
+<br />
+<br />
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholascostadev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholascostadev&layout=compact&theme=buefy&hide_border=true" /> |
 | --- | --- |
