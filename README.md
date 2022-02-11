@@ -13,6 +13,7 @@
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START-->
+- [Working on my portfolio](https://dev.to/nicholascostadev/working-on-my-portfolio-jg)
 <!-- BLOG-POST-LIST:END-->
 
 <br />
