@@ -7,8 +7,6 @@
 - 🤔 I’m looking for getting better also at the backend
 
 - 📫 How to reach me: <a href="https://twitter.com/NicholasCosta04">Twitter</a>
-<br />
-<br />
 ---
 
 ### 📕  Latest Blog Posts
