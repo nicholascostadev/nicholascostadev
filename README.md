@@ -11,6 +11,7 @@
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START-->
+- [Scrimba&#39;s Intruductory Course to TypeScript](https://dev.to/nicholascostadev/scrimbas-intruductory-course-to-typescript-1fm6)
 - [Working on my portfolio](https://dev.to/nicholascostadev/working-on-my-portfolio-jg)
 <!-- BLOG-POST-LIST:END-->
 ---
