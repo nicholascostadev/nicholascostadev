@@ -2,9 +2,9 @@
 
 <em>--I think believing and being persistent is the only way to reach success, that's why I never stop learning and I know I can be the best--</em>
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and TypeScript.
 
-- 🤔 I’m looking for getting better also at the backend
+- 🤔 I’m looking for getting better also at the backend.
 
 - 📫 How to reach me: <a href="https://twitter.com/NicholasCosta04">Twitter</a>
 ---
