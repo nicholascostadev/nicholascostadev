@@ -16,6 +16,9 @@
 <!-- BLOG-POST-LIST:END-->
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholascostadev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> <br /><br /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholascostadev&layout=compact&theme=buefy&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholascostadev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholascostadev&layout=compact&theme=buefy&hide_border=true" />
+
+<br/>
+<br/>
 
   ![Snake animation](https://github.com/nicholascostadev/nicholascostadev/blob/output/github-contribution-grid-snake.svg)
