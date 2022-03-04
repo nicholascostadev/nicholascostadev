@@ -22,7 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholascostadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br/>
-<br/>
+##
 
   ![Snake animation](https://github.com/nicholascostadev/nicholascostadev/blob/output/github-contribution-grid-snake.svg)
