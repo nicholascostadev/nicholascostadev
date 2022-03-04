@@ -7,14 +7,16 @@
 - 🤔 I’m looking for getting better also at the backend.
 
 - 📫 How to reach me: <a href="https://nicholascosta.dev">Portfolio Website</a> or <a href="https://twitter.com/NicholasCosta04">Twitter</a> 
----
+
+##
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START-->
 - [Scrimba&#39;s Intruductory Course to TypeScript](https://dev.to/nicholascostadev/scrimbas-intruductory-course-to-typescript-1fm6)
 - [Working on my portfolio](https://dev.to/nicholascostadev/working-on-my-portfolio-jg)
 <!-- BLOG-POST-LIST:END-->
----
+
+##
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -25,3 +27,4 @@
 ##
 
   ![Snake animation](https://github.com/nicholascostadev/nicholascostadev/blob/output/github-contribution-grid-snake.svg)
+##
