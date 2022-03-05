@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Nicholas </h1>
+<br />
 
-<em>--I think believing and being persistent is the only way to reach success, that's why I never stop learning and I know I can be the best--</em>
+_**I think believing and being persistent is the only way to reach success, that's why I never stop learning and I know I can be the best**_
+<br />
 
-- 🌱 I’m currently learning ReactJS and TypeScript.
+##
+
+- 🌱 I’m currently learning ReactJS with TypeScript.
 
 - 🤔 I’m looking for getting better also at the backend.
 
