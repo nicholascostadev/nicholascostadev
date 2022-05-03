@@ -6,7 +6,7 @@ _**I think believing and being persistent is the only way to reach success, that
 
 ##
 
-- 🌱 I’m currently learning ReactJS with TypeScript.
+- 🌱 I’m currently learning ReactJS with TypeScript and Java.
 
 - 🤔 I’m looking for getting better also at the backend.
 
