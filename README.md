@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nicholas </h1>
+<h1 align="center">Hi, I'm Nicholas 👋</h1>
 <br />
 
 _**I think believing and being persistent is the only way to reach success, that's why I never stop learning and I know I can be the best**_
@@ -10,7 +10,7 @@ _**I think believing and being persistent is the only way to reach success, that
 
 - 🤔 I’m looking for getting better also at the backend.
 
-- 📫 How to reach me: <a href="https://nicholascosta.dev">Portfolio Website</a> or <a href="https://twitter.com/NicholasCosta04">Twitter</a> 
+- 📫 How to reach me: [Porfolio Website](https://nicholascosta.dev), [Linkedin](https://www.linkedin.com/in/nicholascostadev/) or email me.
 
 ##
 
