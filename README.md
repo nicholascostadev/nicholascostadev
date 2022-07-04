@@ -33,10 +33,9 @@ I've been learning to code for about 7 months, and I've fallen in love with it a
 </p>
   
   ### <b>My GitHub Stats</b>
-  <a href="http://www.github.com/nicholascostadev">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicholascostadev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nicholascostadev's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholascostadev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&layout=compact&langs_count=7" alt="nicholascostadev's GitHub stats" />
-  </a>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicholascostadev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nicholascostadev's GitHub stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholascostadev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&layout=compact&langs_count=7" alt="nicholascostadev's GitHub stats" />
+  </div>
                       
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START-->
