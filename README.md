@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Web Developer
 ---------------
 
-I've been learning to code for about 7 months, and I've fallen in love with it at first sight. Started with some simple algorithms in JavaScript, and then got to know more of the fields I could go with Programming, and got really interested in Web Development, with a little more love to the Front-end❤️, about making things work and make things beautiful.
+I've been learning to code for about 9 months, and I've fallen in love with it at first sight. Started with some simple algorithms in JavaScript, and then got to know more of the fields I could go with Programming, and got really interested in Web Development, with a little more love to the Front-end❤️, about making things work and make things beautiful.
 
 *   🌍  I'm based in Rio de Janeiro, Brazil
 *   🖥️  See my portfolio at [nicholascosta.dev](http://nicholascosta.dev)
