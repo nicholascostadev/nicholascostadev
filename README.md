@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Web Developer
 ---------------
 
-I've been learning to code for about 11 months, and I've fallen in love with it at first sight. Started with some simple algorithms in JavaScript, and then got to know more of the fields I could go with Programming, and got really interested in Web Development, with a little more love to the Front-end❤️, about making things work and make things beautiful. Did you say coffee?
+I've been learning to code for about a year now, and I've fallen in love with it at first sight. Started with some simple algorithms in JavaScript, and then got to know more of the fields I could go with Programming, and got really interested in Web Development, with a little more love to the Front-end❤️, about making things work and make things beautiful. Did you say coffee?
 
 *   🌍  I'm based in Rio de Janeiro, Brazil
 *   🖥️  See my portfolio at [nicholascosta.dev](http://nicholascosta.dev)
 *   ✉️  You can contact me at [nicholascostadev@gmail.com](mailto:nicholascostadev@gmail.com)
-*   🧠  I'm learning Different Web Frameworks, as Next.js and Chakra UI
+*   🧠  In love with Tailwind
 *   🤝  I'm open to collaborating on any interesting project you might have
 *   ⚡  I guess you might already know, but, I love Coffee 😁
 
