@@ -39,6 +39,7 @@ I've been learning to code for about a year now, and I've fallen in love with it
                       
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START-->
+- [How to integrate your blog with dev.to API Next.js 13](https://dev.to/nicholascostadev/how-to-integrate-your-blog-with-devto-api-nextjs-13-48j6)
 - [Scrimba&#39;s Intruductory Course to TypeScript](https://dev.to/nicholascostadev/scrimbas-intruductory-course-to-typescript-1fm6)
 - [Working on my portfolio](https://dev.to/nicholascostadev/working-on-my-portfolio-jg)
 <!-- BLOG-POST-LIST:END-->
