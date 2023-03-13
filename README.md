@@ -9,7 +9,7 @@ I've been learning to code for about a year now, and I've fallen in love with it
 *   🌍  I'm based in Rio de Janeiro, Brazil
 *   🖥️  See my portfolio at [nicholascosta.dev](http://nicholascosta.dev)
 *   ✉️  You can contact me at [nicholascostadev@gmail.com](mailto:nicholascostadev@gmail.com)
-*   🧠  In love with Tailwind
+*   🧠  In love with Tailwind + Svelte
 *   🤝  I'm open to collaborating on any interesting project you might have
 *   ⚡  I guess you might already know, but, I love Coffee 😁
 
