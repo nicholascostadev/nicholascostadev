@@ -7,9 +7,6 @@ A Web Developer
 *   🌍  I'm based in Rio de Janeiro, Brazil
 *   🖥️  See my portfolio at [nicholascosta.dev](http://nicholascosta.dev)
 *   ✉️  You can contact me at [nicholascostadev@gmail.com](mailto:nicholascostadev@gmail.com)
-*   🧠  In love with Tailwind + React
-*   🤝  I'm open to collaborating on any interesting project you might have
-*   ⚡  I guess you might already know, but, I love Coffee 😁
 
 ### Skills
 <p align="left">
